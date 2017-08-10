@@ -47,4 +47,9 @@ public class StuffMakerTest {
         Assert.assertEquals(6,sm.doStuff6());
     }
 
+    @Test
+    public void doStuff7() throws Exception {
+        Assert.assertEquals(7,sm.doStuff7());
+    }
+
 }
