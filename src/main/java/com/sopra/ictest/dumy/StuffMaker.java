@@ -12,11 +12,17 @@ import org.springframework.stereotype.Service;
 public class StuffMaker {
 
     void go(){
+        //Stuff 1
         doStuff1();
+        //Stuff 2
         doStuff2();
+        //Stuff 3
         doStuff3();
+        //Stuff 4
         doStuff4();
+        //Stuff 5
         doStuff5();
+        //Stuff 6
         doStuff6();
 
     }
