@@ -44,4 +44,7 @@ public class StuffMaker {
     int doStuff6(){
         return doStuff(6);
     }
+    int doStuff7(){
+        return doStuff(456);
+    }
 }
